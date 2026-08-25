@@ -1,0 +1,5 @@
+MAE,RMSE,MAPE,horizon,model
+17.068,65.754,43.35,15min,Random Forest
+18.412,66.832,46.83,1h,Random Forest
+19.83,68.134,51.15,2h,Random Forest
+17.762,66.277,44.43,30min,Random Forest

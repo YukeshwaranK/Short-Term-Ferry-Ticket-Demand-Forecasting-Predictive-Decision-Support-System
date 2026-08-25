@@ -1,0 +1,21 @@
+MAE,RMSE,MAPE,horizon,model
+20.537,89.661,50.2,15min,Naive (Persistence)
+21.44,74.689,53.02,15min,Moving Average (1h)
+19.113,66.423,48.94,15min,Linear Regression
+17.068,65.754,43.35,15min,Random Forest
+17.555,65.791,43.44,15min,Gradient Boosting
+22.173,90.744,56.92,30min,Naive (Persistence)
+23.798,76.736,59.71,30min,Moving Average (1h)
+20.31,67.202,53.49,30min,Linear Regression
+17.762,66.277,44.43,30min,Random Forest
+18.183,67.593,46.32,30min,Gradient Boosting
+25.67,93.23,62.12,1h,Naive (Persistence)
+29.304,82.12,73.03,1h,Moving Average (1h)
+23.35,69.47,64.5,1h,Linear Regression
+18.412,66.832,46.83,1h,Random Forest
+19.371,67.537,51.68,1h,Gradient Boosting
+35.761,102.818,86.57,2h,Naive (Persistence)
+40.81,95.052,100.89,2h,Moving Average (1h)
+29.578,75.062,88.25,2h,Linear Regression
+19.83,68.134,51.15,2h,Random Forest
+22.087,70.301,63.04,2h,Gradient Boosting
